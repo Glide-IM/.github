@@ -1,6 +1,5 @@
+消息网关, 即时通讯, 直播间聊天, 实时订阅.
 
-分布式, 高性能消息服务.
+**文档: [glide-im.github.io](https://glide-im.github.io)**
 
-即时通讯, 直播间聊天, 实时订阅系统.
-
-客服实例: [https://github.com/surest/live-chat](https://github.com/surest-sky/live-chat-admin)
+客服实例: [surest/live-chat-admin](https://github.com/surest-sky/live-chat-admin)
