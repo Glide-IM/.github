@@ -2,4 +2,4 @@
 
 **文档: [glide-im.github.io](https://glide-im.github.io)**
 
-客服实例: [surest/live-chat-admin](https://github.com/surest-sky/live-chat-admin)
+相关项目: [surest-sky/Glide-IM-Chat](https://github.com/surest-sky/Glide-IM-Chat)
